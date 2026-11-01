@@ -1,0 +1,6 @@
+{
+  "name": "ApexAir Heating & Cooling Pro",
+  "description": "Dallas-Fort Worth's premier HVAC service. Guaranteed same-day repair, 60-second instant price calculator, symptom troubleshooter, and flexible financing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
